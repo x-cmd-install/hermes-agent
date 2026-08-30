@@ -1,0 +1,83 @@
+about:
+  description: The agent that grows with you
+  license: MIT
+  homepage: https://hermes-agent.nousresearch.com
+  head: 2635035
+  archived: false
+  latestVersion: v2026.8.27
+  collectedAt: 2026-08-30T05:24:12Z
+timeline:
+  created: 2025-07-22
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-27
+popularity:
+  star: 238207
+  watcher: 928
+  fork: 48451
+  release: 30
+  contributor: 2748
+  pullRequest: 60796
+  issue: 24823
+language:
+  Python: 77335162
+  TypeScript: 23379384
+  JavaScript: 636667
+  Shell: 448745
+  TeX: 434546
+  PowerShell: 378279
+  Nix: 212932
+  CSS: 208694
+  Rust: 195597
+  BibTeX Style: 156486
+  HTML: 100020
+  Dockerfile: 26647
+  MDX: 19195
+  DIGITAL Command Language: 13287
+  C: 9634
+  Go Template: 2740
+  Batchfile: 1145
+  Makefile: 1054
+  Roff: 228
+  BitBake: 95
+  Perl: 79
+  Ruby: 58
+  Io: 48
+  Charity: 19
+  RenderScript: 14
+  C++: 10
+  IL Assembly: 9
+  LOLCODE: 8
+totalLine: 103560782
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 7
+    mergedPR: 2647
+    openPR: 9086
+    closedIssue: 1538
+    openIssue: 4888
+    commit: 4784
+  last90d:
+    since: 2026-06-01
+    release: 14
+    mergedPR: 6923
+    openPR: 19593
+    closedIssue: 6095
+    openIssue: 9841
+    commit: 15346
+  last180d:
+    since: 2026-03-03
+    release: 30
+    mergedPR: 12086
+    openPR: 24780
+    closedIssue: 12060
+    openIssue: 12694
+    commit: 25956
+  last360d:
+    since: 2025-09-04
+    release: 30
+    mergedPR: 12191
+    openPR: 24780
+    closedIssue: 12128
+    openIssue: 12694
+    commit: 27108
