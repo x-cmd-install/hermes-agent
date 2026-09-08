@@ -2,25 +2,25 @@ about:
   description: "The agent that grows with you"
   license: MIT
   homepage: https://hermes-agent.nousresearch.com
-  head: c3ce416
+  head: 520e636
   archived: false
   latestVersion: "v2026.9.7"
-  collectedAt: 2026-09-08T01:52:27Z
+  collectedAt: 2026-09-08T04:39:17Z
 timeline:
   created: 2025-07-22
   lastCommit: 2026-09-08
   lastRelease: 2026-09-07
 popularity:
-  star: 243060
-  watcher: 951
-  fork: 50050
+  star: 243111
+  watcher: 950
+  fork: 50063
   release: 32
-  contributor: 2882
-  pullRequest: 78288
-  issue: 26605
+  contributor: 2883
+  pullRequest: 78348
+  issue: 26620
 language:
-  Python: 74718414
-  TypeScript: 25030632
+  Python: 74746232
+  TypeScript: 25033952
   JavaScript: 689747
   Shell: 470390
   TeX: 434546
@@ -32,7 +32,7 @@ language:
   HTML: 102253
   Dockerfile: 26647
   MDX: 19195
-  DIGITAL Command Language: 16485
+  DIGITAL Command Language: 16545
   C: 9634
   Go Template: 2740
   Batchfile: 1145
@@ -48,82 +48,82 @@ language:
   C++: 10
   IL Assembly: 9
   LOLCODE: 8
-totalBytes: 102688387
+totalBytes: 102719585
 recent:
   last30d:
     since: 2026-08-09
     release: 8
-    mergedPR: 2648
-    openPR: 9329
-    closedIssue: 1774
-    openIssue: 4365
-    commit: 6103
+    mergedPR: 2651
+    openPR: 9378
+    closedIssue: 1777
+    openIssue: 4377
+    commit: 6109
   last60d:
     since: 2026-07-10
     release: 11
-    mergedPR: 5113
-    openPR: 15719
-    closedIssue: 3695
-    openIssue: 7745
-    commit: 12898
+    mergedPR: 5116
+    openPR: 15768
+    closedIssue: 3698
+    openIssue: 7757
+    commit: 12904
   last90d:
     since: 2026-06-10
     release: 15
-    mergedPR: 7045
-    openPR: 20312
-    closedIssue: 6005
-    openIssue: 10063
-    commit: 17317
+    mergedPR: 7048
+    openPR: 20359
+    closedIssue: 6009
+    openIssue: 10074
+    commit: 17323
   last180d:
     since: 2026-03-12
     release: 32
-    mergedPR: 12713
-    openPR: 27019
-    closedIssue: 12749
-    openIssue: 13526
-    commit: 27921
+    mergedPR: 12716
+    openPR: 27066
+    closedIssue: 12753
+    openIssue: 13537
+    commit: 27927
   last360d:
     since: 2025-09-13
     release: 32
-    mergedPR: 12968
-    openPR: 27019
-    closedIssue: 13025
-    openIssue: 13579
-    commit: 29917
+    mergedPR: 12971
+    openPR: 27066
+    closedIssue: 13029
+    openIssue: 13590
+    commit: 29923
   last720d:
     since: 2024-09-18
     release: 32
-    mergedPR: 12970
-    openPR: 27019
-    closedIssue: 13025
-    openIssue: 13579
-    commit: 32683
+    mergedPR: 12973
+    openPR: 27066
+    closedIssue: 13029
+    openIssue: 13590
+    commit: 32689
 total:
   release: 32
-  mergedPR: 12977
-  openPR: 27019
-  closedIssue: 13025
-  openIssue: 13580
-  commit: 32683
+  mergedPR: 12980
+  openPR: 27066
+  closedIssue: 13029
+  openIssue: 13591
+  commit: 32689
 ---
 path: /home/runner/.x-repo/github.com/nousresearch/hermes-agent
-collectedAt: 2026-09-08T01:53:51Z
+collectedAt: 2026-09-08T04:40:51Z
 loc:
   Python:
-    code: 1380109
-    comments: 92133
-    blanks: 285465
-    files: 5821
+    code: 1380605
+    comments: 92144
+    blanks: 285529
+    files: 5825
   TypeScript:
     code: 327230
     comments: 59700
     blanks: 67027
     files: 2055
   Tsx:
-    code: 186398
-    comments: 23112
-    blanks: 30162
-    files: 841
+    code: 186484
+    comments: 23120
+    blanks: 30188
+    files: 842
   Json:
     code: 75226
     comments: 0
@@ -256,8 +256,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 258859
-    blanks: 109090
+    comments: 258871
+    blanks: 109092
     files: 1599
   Text:
     code: 0
@@ -265,11 +265,11 @@ loc:
     blanks: 43
     files: 9
 total:
-  code: 2125653
-  comments: 475802
-  blanks: 512624
-  files: 10917
+  code: 2126235
+  comments: 475833
+  blanks: 512716
+  files: 10922
 ---
 
 ---
-{"id":384339710,"author":{"login":"teknium1","id":127238744,"node_id":"U_kgDOB5WCWA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPRF1G84W6I7-","tag_name":"v2026.9.7","target_commitish":"main","name":"Hermes Agent v0.21.1 (v2026.9.7)","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-07T22:16:56Z","updated_at":"2026-09-07T22:17:01Z","published_at":"2026-09-07T22:17:01Z","assets":[],"body":"# Hermes Agent v0.21.1 (v2026.9.7)\n\n**Release Date:** September 7, 2026\n\n> Patch release. This tag rolls up current main since v0.21.0 for tagged deployments and downstream consumers.\n\n## About this release\n\nMeasured at commit `6178e9f4eed8d99f4fc550add939d58c7bed6206`, the window since v0.21.0 contains **5,139 non-merge commits** across **4,364 changed files** (+601,014 / \u2212768,419). GitHub reports **632 merged PRs** in the release window at preparation time. These figures exclude the release-version commit.\n\nThe rollup includes the codebase modularization, file-operation and startup performance work, provider and model updates, desktop session controls and browser annotations, MCP authorization improvements, cron scheduling and delivery fixes, and delegation reliability improvements. This patch does not attempt to enumerate or announce every feature in the window.\n\n**Full curated release notes for this window will ship with v0.22.0**, covering everything since v0.21.0, including the intervening patch releases, feature details, and complete contributor credits.\n\n## Updating\n\n- Existing install: `hermes update`\n- Fresh install: `curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash`\n- Managed deployments should update through their deployment tooling using the new tag.\n\n**Full Changelog:** [v2026.8.31...v2026.9.7](https://github.com/NousResearch/hermes-agent/compare/v2026.8.31...v2026.9.7)\n","reactions":{"total_count":15,"+1":6,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":9,"eyes":0}}
+{"id":384339710,"author":{"login":"teknium1","id":127238744,"node_id":"U_kgDOB5WCWA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPRF1G84W6I7-","tag_name":"v2026.9.7","target_commitish":"main","name":"Hermes Agent v0.21.1 (v2026.9.7)","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-07T22:16:56Z","updated_at":"2026-09-07T22:17:01Z","published_at":"2026-09-07T22:17:01Z","assets":[],"body":"# Hermes Agent v0.21.1 (v2026.9.7)\n\n**Release Date:** September 7, 2026\n\n> Patch release. This tag rolls up current main since v0.21.0 for tagged deployments and downstream consumers.\n\n## About this release\n\nMeasured at commit `6178e9f4eed8d99f4fc550add939d58c7bed6206`, the window since v0.21.0 contains **5,139 non-merge commits** across **4,364 changed files** (+601,014 / \u2212768,419). GitHub reports **632 merged PRs** in the release window at preparation time. These figures exclude the release-version commit.\n\nThe rollup includes the codebase modularization, file-operation and startup performance work, provider and model updates, desktop session controls and browser annotations, MCP authorization improvements, cron scheduling and delivery fixes, and delegation reliability improvements. This patch does not attempt to enumerate or announce every feature in the window.\n\n**Full curated release notes for this window will ship with v0.22.0**, covering everything since v0.21.0, including the intervening patch releases, feature details, and complete contributor credits.\n\n## Updating\n\n- Existing install: `hermes update`\n- Fresh install: `curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash`\n- Managed deployments should update through their deployment tooling using the new tag.\n\n**Full Changelog:** [v2026.8.31...v2026.9.7](https://github.com/NousResearch/hermes-agent/compare/v2026.8.31...v2026.9.7)\n","reactions":{"total_count":25,"+1":14,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":11,"eyes":0}}
