@@ -1,0 +1,281 @@
+about:
+  description: "The agent that grows with you"
+  license: MIT
+  homepage: https://hermes-agent.nousresearch.com
+  head: c3ce416
+  archived: false
+  latestVersion: "v2026.9.7"
+  collectedAt: 2026-09-08T01:52:27Z
+timeline:
+  created: 2025-07-22
+  lastCommit: 2026-09-08
+  lastRelease: 2026-09-07
+popularity:
+  star: 243060
+  watcher: 951
+  fork: 50050
+  release: 32
+  contributor: 2882
+  pullRequest: 78288
+  issue: 26605
+language:
+  Python: 74718414
+  TypeScript: 25030632
+  JavaScript: 689747
+  Shell: 470390
+  TeX: 434546
+  PowerShell: 389922
+  Nix: 212932
+  CSS: 209765
+  Rust: 195597
+  BibTeX Style: 156486
+  HTML: 102253
+  Dockerfile: 26647
+  MDX: 19195
+  DIGITAL Command Language: 16485
+  C: 9634
+  Go Template: 2740
+  Batchfile: 1145
+  Makefile: 1054
+  Roff: 355
+  BitBake: 95
+  Io: 93
+  Perl: 79
+  Berry: 63
+  Ruby: 58
+  Charity: 19
+  RenderScript: 14
+  C++: 10
+  IL Assembly: 9
+  LOLCODE: 8
+totalBytes: 102688387
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 8
+    mergedPR: 2648
+    openPR: 9329
+    closedIssue: 1774
+    openIssue: 4365
+    commit: 6103
+  last60d:
+    since: 2026-07-10
+    release: 11
+    mergedPR: 5113
+    openPR: 15719
+    closedIssue: 3695
+    openIssue: 7745
+    commit: 12898
+  last90d:
+    since: 2026-06-10
+    release: 15
+    mergedPR: 7045
+    openPR: 20312
+    closedIssue: 6005
+    openIssue: 10063
+    commit: 17317
+  last180d:
+    since: 2026-03-12
+    release: 32
+    mergedPR: 12713
+    openPR: 27019
+    closedIssue: 12749
+    openIssue: 13526
+    commit: 27921
+  last360d:
+    since: 2025-09-13
+    release: 32
+    mergedPR: 12968
+    openPR: 27019
+    closedIssue: 13025
+    openIssue: 13579
+    commit: 29917
+  last720d:
+    since: 2024-09-18
+    release: 32
+    mergedPR: 12970
+    openPR: 27019
+    closedIssue: 13025
+    openIssue: 13579
+    commit: 32683
+total:
+  release: 32
+  mergedPR: 12977
+  openPR: 27019
+  closedIssue: 13025
+  openIssue: 13580
+  commit: 32683
+---
+path: /home/runner/.x-repo/github.com/nousresearch/hermes-agent
+collectedAt: 2026-09-08T01:53:51Z
+loc:
+  Python:
+    code: 1380109
+    comments: 92133
+    blanks: 285465
+    files: 5821
+  TypeScript:
+    code: 327230
+    comments: 59700
+    blanks: 67027
+    files: 2055
+  Tsx:
+    code: 186398
+    comments: 23112
+    blanks: 30162
+    files: 841
+  Json:
+    code: 75226
+    comments: 0
+    blanks: 5
+    files: 107
+  JavaScript:
+    code: 18959
+    comments: 2723
+    blanks: 2111
+    files: 124
+  Yaml:
+    code: 10509
+    comments: 929
+    blanks: 1184
+    files: 197
+  Tex:
+    code: 8159
+    comments: 1726
+    blanks: 1023
+    files: 24
+  Sh:
+    code: 7516
+    comments: 2600
+    blanks: 938
+    files: 39
+  PowerShell:
+    code: 6454
+    comments: 1344
+    blanks: 355
+    files: 13
+  Css:
+    code: 5582
+    comments: 1516
+    blanks: 784
+    files: 15
+  Rust:
+    code: 3856
+    comments: 474
+    blanks: 435
+    files: 10
+  Nix:
+    code: 3561
+    comments: 1166
+    blanks: 485
+    files: 18
+  CHeader:
+    code: 2420
+    comments: 11720
+    blanks: 358
+    files: 2
+  Html:
+    code: 470
+    comments: 105
+    blanks: 50
+    files: 15
+  Toml:
+    code: 339
+    comments: 370
+    blanks: 28
+    files: 2
+  C:
+    code: 185
+    comments: 47
+    blanks: 20
+    files: 1
+  Dockerfile:
+    code: 158
+    comments: 279
+    blanks: 28
+    files: 1
+  Svg:
+    code: 44
+    comments: 0
+    blanks: 4
+    files: 3
+  Makefile:
+    code: 29
+    comments: 0
+    blanks: 7
+    files: 1
+  Batch:
+    code: 14
+    comments: 11
+    blanks: 3
+    files: 1
+  Org:
+    code: 7
+    comments: 1
+    blanks: 0
+    files: 7
+  Forth:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 4
+  Ini:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Bitbake:
+    code: 2
+    comments: 2
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Cpp:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Glsl:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  LolCode:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Perl:
+    code: 1
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 258859
+    blanks: 109090
+    files: 1599
+  Text:
+    code: 0
+    comments: 116
+    blanks: 43
+    files: 9
+total:
+  code: 2125653
+  comments: 475802
+  blanks: 512624
+  files: 10917
+---
+
+---
+platform	name	url	size	score
+darwin/arm64			
+darwin/amd64			
+linux/arm64			
+linux/amd64			
+win/arm64			
+win/amd64			
