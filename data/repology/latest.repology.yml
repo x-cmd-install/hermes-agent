@@ -1,0 +1,87 @@
+- repo: altsisyphus
+  srcname: hermes-agent
+  binnames:
+    - hermes-agent
+  visiblename: hermes-agent
+  version: 2026.7.7.2
+  origversion: 2026.7.7.2-alt1
+  status: outdated
+  summary: Locally-run AI agent with tool use, web browsing, and automation
+  maintainers:
+    - lav@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+- repo: aur
+  srcname: hermes-agent
+  binname: hermes-agent
+  visiblename: hermes-agent
+  version: 0.21.1
+  origversion: 0.21.1-1
+  status: newest
+  summary: Locally-run AI agent with tool use, web browsing, and automation
+  maintainers:
+    - y0ucef@aur
+    - evorster@aur
+    - enihcam@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: hermes-agent-bin
+  binname: hermes-agent-bin
+  visiblename: hermes-agent-bin
+  version: 0.21.1
+  origversion: 0.21.1-1
+  status: newest
+  summary: Locally-run AI agent with tool use, web browsing, and automation (prebuilt binary, CI-built)
+  maintainers:
+    - jabla@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: python-hermes-agent
+  binname: python-hermes-agent
+  visiblename: python-hermes-agent
+  version: 0.21.1
+  origversion: 0.21.1-1
+  status: newest
+  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
+  maintainers:
+    - wyf9661@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: misc/hermes-agent
+  binname: hermes-agent
+  visiblename: misc/hermes-agent
+  version: 0.18.0
+  origversion: null
+  status: outdated
+  summary: AI agent with built-in learning loop
+  maintainers:
+    - olivier@freebsd.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: hermes-agent
+  visiblename: hermes-agent
+  version: 2026.9.7
+  origversion: null
+  status: newest
+  summary: Self-improving AI agent that creates skills from experience
+- repo: homebrew
+  srcname: hermes-agent
+  visiblename: hermes-agent
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Self-improving AI agent that creates skills from experience
+- repo: pypi
+  srcname: hermes-agent
+  binname: hermes-agent
+  visiblename: hermes-agent
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
