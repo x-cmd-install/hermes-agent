@@ -2,12 +2,12 @@ about:
   description: "The agent that grows with you"
   license: MIT
   homepage: https://hermes-agent.nousresearch.com
-  head: 7cdc6a7
+  head: 073c578
   archived: false
   latestVersion: "v2026.9.7"
   latestRelease: "v2026.9.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:39:30Z
+  collectedAt: 2026-09-10T16:23:13Z
 timeline:
   created: 2025-07-22
   lastCommit: 2026-09-10
@@ -15,28 +15,28 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 243917
-  watcher: 953
-  fork: 50367
+  star: 244135
+  watcher: 954
+  fork: 50471
   release: 32
-  contributor: 2903
-  pullRequest: 79494
-  issue: 27002
+  contributor: 2904
+  pullRequest: 79792
+  issue: 27099
 language:
-  Python: 75877426
-  TypeScript: 25390721
+  Python: 75970423
+  TypeScript: 25476556
   JavaScript: 784240
   Shell: 488612
-  PowerShell: 451291
+  PowerShell: 451255
   TeX: 434546
-  CSS: 224370
+  CSS: 224804
   Nix: 212213
   Rust: 195597
   BibTeX Style: 156486
   HTML: 118955
   Dockerfile: 26647
   MDX: 19211
-  DIGITAL Command Language: 17180
+  DIGITAL Command Language: 17191
   C: 9634
   AutoHotkey: 7730
   Go Template: 2740
@@ -53,84 +53,84 @@ language:
   C++: 10
   IL Assembly: 9
   LOLCODE: 8
-totalBytes: 104420601
+totalBytes: 104599842
 recent:
   last30d:
     since: 2026-08-11
     release: 8
-    mergedPR: 2759
-    openPR: 9387
-    closedIssue: 1803
-    openIssue: 4339
-    commit: 6581
+    mergedPR: 2786
+    openPR: 9584
+    closedIssue: 1820
+    openIssue: 4418
+    commit: 6638
   last60d:
     since: 2026-07-12
     release: 11
-    mergedPR: 5256
-    openPR: 15893
-    closedIssue: 3768
-    openIssue: 7822
-    commit: 13468
+    mergedPR: 5283
+    openPR: 16085
+    closedIssue: 3794
+    openIssue: 7892
+    commit: 13525
   last90d:
     since: 2026-06-12
     release: 15
-    mergedPR: 7125
-    openPR: 20475
-    closedIssue: 5977
-    openIssue: 10135
-    commit: 17888
+    mergedPR: 7152
+    openPR: 20659
+    closedIssue: 6005
+    openIssue: 10203
+    commit: 17945
   last180d:
     since: 2026-03-14
     release: 31
-    mergedPR: 12802
-    openPR: 27508
-    closedIssue: 12904
-    openIssue: 13742
-    commit: 28490
+    mergedPR: 12829
+    openPR: 27690
+    closedIssue: 12933
+    openIssue: 13810
+    commit: 28546
   last360d:
     since: 2025-09-15
     release: 32
-    mergedPR: 13164
-    openPR: 27508
-    closedIssue: 13202
-    openIssue: 13799
-    commit: 30486
+    mergedPR: 13191
+    openPR: 27690
+    closedIssue: 13231
+    openIssue: 13867
+    commit: 30542
   last720d:
     since: 2024-09-20
     release: 32
-    mergedPR: 13166
-    openPR: 27508
-    closedIssue: 13202
-    openIssue: 13799
-    commit: 33311
+    mergedPR: 13193
+    openPR: 27690
+    closedIssue: 13231
+    openIssue: 13867
+    commit: 33363
 total:
   release: 32
-  mergedPR: 13177
-  openPR: 27508
-  closedIssue: 13202
-  openIssue: 13800
-  commit: 33311
+  mergedPR: 13204
+  openPR: 27690
+  closedIssue: 13231
+  openIssue: 13868
+  commit: 33363
 ---
 path: /home/runner/.x-repo/github.com/nousresearch/hermes-agent
-collectedAt: 2026-09-10T04:40:54Z
+collectedAt: 2026-09-10T16:25:02Z
 loc:
   Python:
-    code: 1400314
-    comments: 93909
-    blanks: 289233
-    files: 5925
+    code: 1401809
+    comments: 93995
+    blanks: 289509
+    files: 5941
   TypeScript:
-    code: 331052
-    comments: 59890
-    blanks: 67805
-    files: 2095
+    code: 332125
+    comments: 60072
+    blanks: 68026
+    files: 2105
   Tsx:
-    code: 191202
-    comments: 23221
-    blanks: 30772
-    files: 875
+    code: 191812
+    comments: 23188
+    blanks: 30874
+    files: 876
   Json:
-    code: 75183
+    code: 75194
     comments: 0
     blanks: 5
     files: 107
@@ -160,9 +160,9 @@ loc:
     blanks: 407
     files: 18
   Css:
-    code: 6236
-    comments: 1525
-    blanks: 887
+    code: 6247
+    comments: 1526
+    blanks: 888
     files: 16
   Rust:
     code: 3856
@@ -266,19 +266,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 259679
-    blanks: 109341
-    files: 1608
+    comments: 259876
+    blanks: 109380
+    files: 1610
   Text:
     code: 0
     comments: 116
     blanks: 43
     files: 9
 total:
-  code: 2158498
-  comments: 479556
-  blanks: 518383
-  files: 11134
+  code: 2161698
+  comments: 479989
+  blanks: 519022
+  files: 11163
 ---
 
 ---
