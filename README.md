@@ -12,6 +12,18 @@ The agent that grows with you
 x install hermes-agent
 ```
 
+## Code insight
+
+Total: **2,080,944** lines of code across **9195** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 1,407,238 | 94,214 | 290,636 | 5968 |
+| TypeScript | 333,157 | 60,131 | 68,123 | 2107 |
+| Tsx | 193,362 | 23,245 | 31,095 | 882 |
+| Json | 75,194 | 0 | 5 | 107 |
+| JavaScript | 20,390 | 3,145 | 2,196 | 131 |
+
 ## Source
 
 - **Upstream**: <https://github.com/nousresearch/hermes-agent>
@@ -25,31 +37,30 @@ x install hermes-agent
 
 ## Popularity
 
-- **Stars**: 244,135 · **Forks**: 50,471 · **Open issues**: 27,099 · **Contributors**: 2,904
+- **Stars**: 244,186 · **Forks**: 50,500 · **Open issues**: 27,157 · **Contributors**: 2,904
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 13204 · **Open PRs**: 27690 · **Closed issues**: 13231 · **Open issues**: 13868 · **Commits**: 33363
+- **Releases**: 32 · **Merged PRs**: 13223 · **Open PRs**: 27748 · **Closed issues**: 13260 · **Open issues**: 13897 · **Commits**: 33448
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 8 | 2786 | 9584 | 1820 | 4418 | 6638 |
-| 90d | 2026-06-12 | 15 | 7152 | 20659 | 6005 | 10203 | 17945 |
-| 360d | 2025-09-15 | 32 | 13191 | 27690 | 13231 | 13867 | 30542 |
+| 30d | 2026-08-11 | 8 | 2805 | 9666 | 1841 | 4455 | 6721 |
+| last60d | 2026-07-12 | 11 | 5302 | 16155 | 3820 | 7924 | 13608 |
+| 90d | 2026-06-12 | 15 | 7171 | 20725 | 6032 | 10234 | 18028 |
+| last180d | 2026-03-14 | 31 | 12848 | 27748 | 12962 | 13839 | 28629 |
+| 360d | 2025-09-15 | 32 | 13210 | 27748 | 13260 | 13896 | 30625 |
+| last720d | 2024-09-20 | 32 | 13212 | 27748 | 13260 | 13896 | 33448 |
 
-## Code size
+## Distribution status
 
-Total: **2,072,933** lines of code across **9160** files in the top 5 languages.
+Reported by **8** distros on [repology.org](https://repology.org/project/hermes-agent). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 1,401,809 | 93,995 | 289,509 | 5941 |
-| TypeScript | 332,125 | 60,072 | 68,026 | 2105 |
-| Tsx | 191,812 | 23,188 | 30,874 | 876 |
-| Json | 75,194 | 0 | 5 | 107 |
-| JavaScript | 20,390 | 3,145 | 2,196 | 131 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2026.9.7` | ✅ latest |
 
 ## Improve this data
 
@@ -60,4 +71,4 @@ Install metadata for hermes-agent lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:13Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:07:34Z._
