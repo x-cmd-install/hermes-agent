@@ -2,12 +2,12 @@ about:
   description: "The agent that grows with you"
   license: MIT
   homepage: https://hermes-agent.nousresearch.com
-  head: 564aef2
+  head: 6c3d4a4
   archived: false
   latestVersion: "v2026.9.7"
   latestRelease: "v2026.9.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:05:21Z
+  collectedAt: 2026-09-10T22:42:22Z
 timeline:
   created: 2025-07-22
   lastCommit: 2026-09-10
@@ -15,16 +15,16 @@ timeline:
   lastRelease: 2026-09-07
   lastPrerelease: 
 popularity:
-  star: 244186
+  star: 244197
   watcher: 954
-  fork: 50500
+  fork: 50511
   release: 32
-  contributor: 2904
-  pullRequest: 79953
-  issue: 27157
+  contributor: 2905
+  pullRequest: 79994
+  issue: 27167
 language:
-  Python: 76297951
-  TypeScript: 25599696
+  Python: 76634778
+  TypeScript: 25673116
   JavaScript: 784240
   Shell: 488612
   PowerShell: 451255
@@ -53,82 +53,82 @@ language:
   C++: 10
   IL Assembly: 9
   LOLCODE: 8
-totalBytes: 105050510
+totalBytes: 105460757
 recent:
   last30d:
     since: 2026-08-11
     release: 8
-    mergedPR: 2805
-    openPR: 9666
-    closedIssue: 1841
-    openIssue: 4455
-    commit: 6721
+    mergedPR: 2812
+    openPR: 9693
+    closedIssue: 1843
+    openIssue: 4463
+    commit: 6734
   last60d:
     since: 2026-07-12
     release: 11
-    mergedPR: 5302
-    openPR: 16155
-    closedIssue: 3820
-    openIssue: 7924
-    commit: 13608
+    mergedPR: 5309
+    openPR: 16181
+    closedIssue: 3822
+    openIssue: 7932
+    commit: 13621
   last90d:
     since: 2026-06-12
     release: 15
-    mergedPR: 7171
-    openPR: 20725
-    closedIssue: 6032
-    openIssue: 10234
-    commit: 18028
+    mergedPR: 7178
+    openPR: 20750
+    closedIssue: 6034
+    openIssue: 10242
+    commit: 18041
   last180d:
     since: 2026-03-14
     release: 31
-    mergedPR: 12848
-    openPR: 27748
-    closedIssue: 12962
-    openIssue: 13839
-    commit: 28629
+    mergedPR: 12855
+    openPR: 27772
+    closedIssue: 12964
+    openIssue: 13847
+    commit: 28642
   last360d:
     since: 2025-09-15
     release: 32
-    mergedPR: 13210
-    openPR: 27748
-    closedIssue: 13260
-    openIssue: 13896
-    commit: 30625
+    mergedPR: 13217
+    openPR: 27772
+    closedIssue: 13262
+    openIssue: 13904
+    commit: 30638
   last720d:
     since: 2024-09-20
     release: 32
-    mergedPR: 13212
-    openPR: 27748
-    closedIssue: 13260
-    openIssue: 13896
-    commit: 33448
+    mergedPR: 13219
+    openPR: 27772
+    closedIssue: 13262
+    openIssue: 13904
+    commit: 33459
 total:
   release: 32
-  mergedPR: 13223
-  openPR: 27748
-  closedIssue: 13260
-  openIssue: 13897
-  commit: 33448
+  mergedPR: 13230
+  openPR: 27772
+  closedIssue: 13262
+  openIssue: 13905
+  commit: 33459
 ---
 path: /home/runner/.x-repo/github.com/nousresearch/hermes-agent
-collectedAt: 2026-09-10T21:07:08Z
+collectedAt: 2026-09-10T22:44:10Z
 loc:
   Python:
-    code: 1407238
-    comments: 94214
-    blanks: 290636
-    files: 5968
+    code: 1413374
+    comments: 94470
+    blanks: 291772
+    files: 5989
   TypeScript:
-    code: 333157
-    comments: 60131
-    blanks: 68123
-    files: 2107
+    code: 334009
+    comments: 60377
+    blanks: 68306
+    files: 2114
   Tsx:
-    code: 193362
-    comments: 23245
-    blanks: 31095
-    files: 882
+    code: 193885
+    comments: 23324
+    blanks: 31161
+    files: 886
   Json:
     code: 75194
     comments: 0
@@ -140,7 +140,7 @@ loc:
     blanks: 2196
     files: 131
   Yaml:
-    code: 10686
+    code: 10703
     comments: 934
     blanks: 1184
     files: 207
@@ -266,19 +266,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 259975
-    blanks: 109411
-    files: 1611
+    comments: 260202
+    blanks: 109469
+    files: 1612
   Text:
     code: 0
     comments: 116
     blanks: 43
     files: 9
 total:
-  code: 2169722
-  comments: 480423
-  blanks: 520498
-  files: 11199
+  code: 2177253
+  comments: 481231
+  blanks: 521941
+  files: 11232
 ---
 
 ---
