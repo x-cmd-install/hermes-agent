@@ -19,7 +19,7 @@
   visiblename: hermes-agent
   version: 0.21.1
   origversion: 0.21.1-1
-  status: newest
+  status: legacy
   summary: Locally-run AI agent with tool use, web browsing, and automation
   maintainers:
     - y0ucef@aur
@@ -31,8 +31,8 @@
   srcname: hermes-agent-bin
   binname: hermes-agent-bin
   visiblename: hermes-agent-bin
-  version: 0.21.1
-  origversion: 0.21.1-1
+  version: 0.21.2
+  origversion: 0.21.2-1
   status: newest
   summary: Locally-run AI agent with tool use, web browsing, and automation (prebuilt binary, CI-built)
   maintainers:
@@ -43,8 +43,8 @@
   srcname: python-hermes-agent
   binname: python-hermes-agent
   visiblename: python-hermes-agent
-  version: 0.21.1
-  origversion: 0.21.1-1
+  version: 0.21.2
+  origversion: 0.21.2-1
   status: newest
   summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
   maintainers:
@@ -66,7 +66,7 @@
 - repo: homebrew
   srcname: hermes-agent
   visiblename: hermes-agent
-  version: 2026.9.7
+  version: 2026.9.11
   origversion: null
   status: newest
   summary: Self-improving AI agent that creates skills from experience
@@ -77,6 +77,22 @@
   origversion: null
   status: rolling
   summary: Self-improving AI agent that creates skills from experience
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: hermes-agent
+  binnames:
+    - hermes-agent
+  visiblename: hermes-agent
+  version: 2026.9.11
+  origversion: 2026.9.11-1
+  status: newest
+  summary: Self-improving AI agent from Nous Research
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
 - repo: pypi
   srcname: hermes-agent
   binname: hermes-agent
