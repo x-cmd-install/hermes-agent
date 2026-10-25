@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: hermes-agent
+  visiblename: hermes-agent
+  version: 0.22.4
+  origversion: null
+  status: outdated
+  summary: Self-improving AI agent that creates skills from experience
+- repo: homebrew
+  srcname: hermes-agent
+  visiblename: hermes-agent
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Self-improving AI agent that creates skills from experience
 - repo: altsisyphus
   srcname: hermes-agent
   binnames:
@@ -36,6 +50,7 @@
   maintainers:
     - y0ucef@aur
     - evorster@aur
+    - jabla@aur
   licenses:
     - MIT
 - repo: aur
@@ -71,20 +86,6 @@
     - olivier@freebsd.org
   categories:
     - misc
-- repo: homebrew
-  srcname: hermes-agent
-  visiblename: hermes-agent
-  version: 0.22.4
-  origversion: null
-  status: outdated
-  summary: Self-improving AI agent that creates skills from experience
-- repo: homebrew
-  srcname: hermes-agent
-  visiblename: hermes-agent
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Self-improving AI agent that creates skills from experience
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: hermes-agent
