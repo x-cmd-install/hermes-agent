@@ -14,18 +14,6 @@
   categories:
     - Development/Other
 - repo: aur
-  srcname: python-hermes-agent
-  binname: python-hermes-agent
-  visiblename: python-hermes-agent
-  version: 0.22.5
-  origversion: 0.22.5-1
-  status: newest
-  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
-  maintainers:
-    - wyf9661@aur
-  licenses:
-    - MIT
-- repo: aur
   srcname: hermes-agent
   binname: hermes-agent
   visiblename: hermes-agent
@@ -51,6 +39,18 @@
     - jabla@aur
   licenses:
     - MIT
+- repo: aur
+  srcname: python-hermes-agent
+  binname: python-hermes-agent
+  visiblename: python-hermes-agent
+  version: 0.22.5
+  origversion: 0.22.5-1
+  status: newest
+  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
+  maintainers:
+    - wyf9661@aur
+  licenses:
+    - MIT
 - repo: chromebrew
   srcname: py3_hermes_agent
   visiblename: py3_hermes_agent
@@ -64,9 +64,9 @@
   srcname: misc/hermes-agent
   binname: hermes-agent
   visiblename: misc/hermes-agent
-  version: 0.21.5
+  version: 0.22.5
   origversion: null
-  status: outdated
+  status: newest
   summary: AI agent with built-in learning loop
   maintainers:
     - olivier@freebsd.org
