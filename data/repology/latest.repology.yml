@@ -1,14 +1,22 @@
-- repo: altsisyphus
+- repo: homebrew
+  srcname: hermes-agent
+  visiblename: hermes-agent
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Self-improving AI agent that creates skills from experience
+- repo: openmandriva_rolling
+  subrepo: main/release
   srcname: hermes-agent
   binnames:
     - hermes-agent
   visiblename: hermes-agent
-  version: 2026.9.24
-  origversion: 2026.9.24-alt1
+  version: 2026.9.21
+  origversion: 2026.9.21-1
   status: untrusted
-  summary: Locally-run AI agent with tool use, web browsing, and automation
+  summary: Self-improving AI agent from Nous Research
   maintainers:
-    - lav@altlinux.org
+    - bero@lindev.ch
   licenses:
     - MIT
   categories:
@@ -27,6 +35,33 @@
     - jabla@aur
   licenses:
     - MIT
+- repo: altsisyphus
+  srcname: hermes-agent
+  binnames:
+    - hermes-agent
+  visiblename: hermes-agent
+  version: 2026.9.24
+  origversion: 2026.9.24-alt1
+  status: untrusted
+  summary: Locally-run AI agent with tool use, web browsing, and automation
+  maintainers:
+    - lav@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
+- repo: aur
+  srcname: python-hermes-agent
+  binname: python-hermes-agent
+  visiblename: python-hermes-agent
+  version: 0.22.6
+  origversion: 0.22.6-1
+  status: newest
+  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
+  maintainers:
+    - wyf9661@aur
+  licenses:
+    - MIT
 - repo: aur
   srcname: hermes-agent-bin
   binname: hermes-agent-bin
@@ -37,18 +72,6 @@
   summary: Locally-run AI agent with tool use, web browsing, and automation (prebuilt binary, CI-built)
   maintainers:
     - jabla@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: python-hermes-agent
-  binname: python-hermes-agent
-  visiblename: python-hermes-agent
-  version: 0.22.5
-  origversion: 0.22.5-1
-  status: legacy
-  summary: The self-improving AI agent — creates skills from experience, improves them during use, and runs anywhere
-  maintainers:
-    - wyf9661@aur
   licenses:
     - MIT
 - repo: chromebrew
@@ -79,29 +102,6 @@
   origversion: null
   status: outdated
   summary: Self-improving AI agent that creates skills from experience
-- repo: homebrew
-  srcname: hermes-agent
-  visiblename: hermes-agent
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Self-improving AI agent that creates skills from experience
-- repo: openmandriva_rolling
-  subrepo: main/release
-  srcname: hermes-agent
-  binnames:
-    - hermes-agent
-  visiblename: hermes-agent
-  version: 2026.9.21
-  origversion: 2026.9.21-1
-  status: untrusted
-  summary: Self-improving AI agent from Nous Research
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
 - repo: openmandriva_cooker
   subrepo: main/release
   srcname: hermes-agent
