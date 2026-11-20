@@ -14,15 +14,15 @@ x install hermes-agent
 
 ## Code insight
 
-Total: **3,718,148** lines of code across **21342** files in the top 5 languages.
+Total: **3,730,668** lines of code across **21442** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 2,379,661 | 139,261 | 473,814 | 12718 |
-| TypeScript | 593,874 | 94,752 | 115,436 | 4042 |
-| Tsx | 308,675 | 32,004 | 51,574 | 1591 |
-| Yaml | 168,586 | 1,661 | 3,622 | 2677 |
-| Json | 155,378 | 0 | 5 | 314 |
+| Python | 2,388,277 | 139,552 | 475,568 | 12745 |
+| TypeScript | 594,849 | 94,882 | 115,629 | 4049 |
+| Tsx | 309,792 | 32,033 | 51,764 | 1594 |
+| Yaml | 170,235 | 1,661 | 3,622 | 2740 |
+| Json | 155,448 | 0 | 5 | 314 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **3,718,148** lines of code across **21342** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v0.23.2+canary.20261119T064637Z` (2026-11-16)
-- **Last commit**: 2026-11-19
+- **Latest**: `v0.23.3` (2026-11-20)
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 264,597 · **Forks**: 59,743 · **Open issues**: 41,161 · **Contributors**: 9
+- **Stars**: 264,826 · **Forks**: 59,820 · **Open issues**: 41,311 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 23278 · **Open PRs**: 34433 · **Closed issues**: 21727 · **Open issues**: 19434 · **Commits**: 74506
+- **Releases**: 57 · **Merged PRs**: 23471 · **Open PRs**: 34392 · **Closed issues**: 21749 · **Open issues**: 19562 · **Commits**: 75163
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 15 | 4007 | 4855 | 701 | 4295 | 0 |
-| last60d | 2026-09-20 | 22 | 7694 | 12810 | 2702 | 9046 | 0 |
-| 90d | 2026-08-21 | 28 | 11616 | 18865 | 6650 | 11433 | 0 |
-| last180d | 2026-05-23 | 43 | 18449 | 31105 | 16242 | 17675 | 0 |
-| 360d | 2025-11-24 | 56 | 23209 | 34432 | 21727 | 19433 | 0 |
-| last720d | 2024-11-29 | 56 | 23218 | 34432 | 21727 | 19433 | 74506 |
+| 30d | 2026-10-21 | 16 | 4076 | 4722 | 691 | 4270 | 0 |
+| last60d | 2026-09-21 | 23 | 7743 | 12539 | 2619 | 9034 | 0 |
+| 90d | 2026-08-22 | 28 | 11741 | 18652 | 6553 | 11481 | 0 |
+| last180d | 2026-05-24 | 44 | 18574 | 30957 | 16186 | 17759 | 0 |
+| 360d | 2025-11-25 | 57 | 23385 | 34391 | 21749 | 19561 | 0 |
+| last720d | 2024-11-30 | 57 | 23394 | 34391 | 21749 | 19561 | 75163 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for hermes-agent lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:07:16Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:09:12Z._
