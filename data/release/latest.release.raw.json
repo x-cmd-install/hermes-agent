@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/NousResearch/hermes-agent/releases/456412256",
-  "assets_url": "https://api.github.com/repos/NousResearch/hermes-agent/releases/456412256/assets",
-  "upload_url": "https://uploads.github.com/repos/NousResearch/hermes-agent/releases/456412256/assets{?name,label}",
-  "html_url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.4",
-  "id": 456412256,
+  "url": "https://api.github.com/repos/NousResearch/hermes-agent/releases/461234317",
+  "assets_url": "https://api.github.com/repos/NousResearch/hermes-agent/releases/461234317/assets",
+  "upload_url": "https://uploads.github.com/repos/NousResearch/hermes-agent/releases/461234317/assets{?name,label}",
+  "html_url": "https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.5",
+  "id": 461234317,
   "author": {
     "login": "teknium1",
     "id": 127238744,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPRF1G84bNExg",
-  "tag_name": "v0.23.4",
-  "target_commitish": "8fc0374447313e276f6b9a2764bfc750190c966a",
-  "name": "Hermes Agent v0.23.4",
+  "node_id": "RE_kwDOPRF1G84bfeCN",
+  "tag_name": "v0.23.5",
+  "target_commitish": "a428f5344f777ccafe389c79d5b09384abef1437",
+  "name": "Hermes Agent v0.23.5",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-11-24T08:17:03Z",
-  "updated_at": "2026-11-24T08:17:06Z",
-  "published_at": "2026-11-24T08:17:06Z",
+  "created_at": "2026-11-28T03:20:10Z",
+  "updated_at": "2026-11-28T03:20:13Z",
+  "published_at": "2026-11-28T03:20:13Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/NousResearch/hermes-agent/tarball/v0.23.4",
-  "zipball_url": "https://api.github.com/repos/NousResearch/hermes-agent/zipball/v0.23.4",
-  "body": "# Hermes Agent v0.23.4\n\n**Release Date:** November 23, 2026\n\n> Patch release. This tag rolls up the ~229 PRs merged since v0.23.3 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.\n\n<!-- HERMES_BUILDS_TABLE -->\n\n## About this release\n\nMeasured at commit `8fc03744473`, the window since v0.23.3 contains **1,122 non-merge commits** across **1,316 changed files** (+96,873 / −6,703), **229 merged PRs** and **281 closed issues**.\n\nAlso in the window, undocumented here on purpose: Gemini 4 Hydrogen, Neon and Carbon on Nous Portal, OpenRouter and Vertex, `hermes gateway migrate --backends` to move an old serve/dashboard backend onto the gateway (with a System page card in the dashboard), `hermes plugins config` to edit a plugin's settings from the terminal, approval cards in Desktop for a sandbox's folder and site requests, gateway clients announcing who they are so plugins can see which client sent a turn, a long run of Desktop streaming and transcript performance work, a retryable indicator for slow profile switches, `hermes dashboard password` without a TTY prompt, configurable skill index description length (`skills.index_desc_limit`), managed-scope config honored by security and URL-safety reads, and a large batch of new plugin-catalog entries.\n\n**Full curated release notes for this window ship with v0.24.0**, which will document everything from v0.23.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.\n\n## Updating\n\n- Microsoft Store app: updates through the Store.\n- Desktop app installed from the installer (.exe / .dmg): no change in this release; it updates with the next bundled release.\n- CLI: `hermes update`, or re-run the installer one-liner.\n- Docker / Hermes Cloud: `nousresearch/hermes-agent:stable` (or `:latest`).\n\n**Full Changelog**: [v0.23.3...v0.23.4](https://github.com/NousResearch/hermes-agent/compare/v0.23.3...v0.23.4)",
-  "reactions": {
-    "url": "https://api.github.com/repos/NousResearch/hermes-agent/releases/456412256/reactions",
-    "total_count": 57,
-    "+1": 18,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 38,
-    "eyes": 1
-  }
+  "tarball_url": "https://api.github.com/repos/NousResearch/hermes-agent/tarball/v0.23.5",
+  "zipball_url": "https://api.github.com/repos/NousResearch/hermes-agent/zipball/v0.23.5",
+  "body": "# Hermes Agent v0.23.5\n\n**Release Date:** November 27, 2026\n\n> Patch release. This tag rolls up the ~338 PRs merged since v0.23.4 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.\n\n<!-- HERMES_BUILDS_TABLE -->\n\n## About this release\n\nMeasured at commit `a428f5344f77`, the window since v0.23.4 contains **1,262 non-merge commits** across **1,146 changed files** (+57,989 / −5,346), **338 merged PRs** and **92 closed issues**.\n\nAlso in the window, undocumented here on purpose: the CLI and TUI support the OSC 7577 program resume protocol, idle gateway chats compact in the background on every route, `read_file` tails with a negative offset and lists directories, `search_files` says when a content search is the whole answer, a bounded default-plugins preflight before the local gateway starts (Desktop, Docker and CLI), plugin OAuth entries that can pin their redirect URI, the Solstice provider moved to the stateless Interactions API, new plugin API surfaces (turn origin, how a session was created, cron scheduling, gateway silence helpers), the dashboard's \"your dashboard is moving\" notice, raw arrow keys working in the sessions and plugins pickers, and a long series of fixes that keep plugin work bound to the right profile when a profile is renamed, moved or removed.\n\n**Full curated release notes for this window ship with v0.24.0**, which will document everything from v0.23.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.\n\n## Updating\n\n- Microsoft Store app: updates through the Store.\n- Desktop app installed from the installer (.exe / .dmg): no change in this release; it updates with the next bundled release.\n- CLI: `hermes update`, or re-run the installer one-liner.\n- Docker / Hermes Cloud: `nousresearch/hermes-agent:stable` (or `:latest`).\n\n**Full Changelog**: [v0.23.4...v0.23.5](https://github.com/NousResearch/hermes-agent/compare/v0.23.4...v0.23.5)"
 }

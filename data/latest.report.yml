@@ -2,31 +2,31 @@ about:
   description: "The agent that grows with you"
   license: MIT
   homepage: https://hermes-agent.nousresearch.com
-  head: 1d15aad
+  head: d71a657
   archived: false
-  latestVersion: "canary.20261125T064800Z-v0.23.4"
-  latestRelease: "v0.23.4"
+  latestVersion: "v0.23.5"
+  latestRelease: "v0.23.5"
   latestPrerelease: "canary.20261125T064800Z-v0.23.4"
-  collectedAt: 2026-11-27T08:34:33Z
+  collectedAt: 2026-11-28T07:43:11Z
 timeline:
   created: 2025-07-22
-  lastCommit: 2026-11-27
-  lastVersion: 2026-11-25
-  lastRelease: 2026-11-24
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
   lastPrerelease: 2026-11-25
 popularity:
-  star: 266487
-  watcher: 1021
-  fork: 60465
+  star: 266636
+  watcher: 1024
+  fork: 60530
   release: 62
-  contributor: 5742
-  pullRequest: 117542
-  issue: 42243
+  contributor: 5746
+  pullRequest: 117743
+  issue: 42372
 language:
-  Python: 141899322
-  TypeScript: 46568924
-  JavaScript: 3398788
-  Shell: 882971
+  Python: 142523635
+  TypeScript: 46745797
+  JavaScript: 3401640
+  Shell: 883860
   PowerShell: 592827
   TeX: 434546
   Rust: 295808
@@ -34,7 +34,7 @@ language:
   Nix: 260586
   HTML: 173687
   BibTeX Style: 156486
-  DIGITAL Command Language: 48483
+  DIGITAL Command Language: 48527
   Dockerfile: 45484
   MDX: 20473
   Objective-C: 16350
@@ -63,101 +63,101 @@ language:
   Standard ML: 13
   Nu: 10
   IL Assembly: 9
-totalBytes: 195120994
+totalBytes: 195925965
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 18
-    mergedPR: 3974
-    openPR: 4440
-    closedIssue: 530
-    openIssue: 4031
-    commit: 16537
+    mergedPR: 3922
+    openPR: 4465
+    closedIssue: 523
+    openIssue: 4013
+    commit: 16744
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 26
-    mergedPR: 7009
-    openPR: 10734
-    closedIssue: 1873
-    openIssue: 8526
-    commit: 30258
+    mergedPR: 6843
+    openPR: 10432
+    closedIssue: 1813
+    openIssue: 8414
+    commit: 30465
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 32
-    mergedPR: 11597
-    openPR: 17717
-    closedIssue: 5870
-    openIssue: 11617
-    commit: 52148
+    mergedPR: 11565
+    openPR: 17670
+    closedIssue: 5771
+    openIssue: 11657
+    commit: 52355
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 46
-    mergedPR: 18712
-    openPR: 30387
-    closedIssue: 15754
-    openIssue: 18074
-    commit: 70600
+    mergedPR: 18697
+    openPR: 30389
+    closedIssue: 15564
+    openIssue: 17934
+    commit: 70807
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 62
-    mergedPR: 23928
-    openPR: 34558
-    closedIssue: 22098
-    openIssue: 20144
-    commit: 81803
+    mergedPR: 23957
+    openPR: 34680
+    closedIssue: 22112
+    openIssue: 20259
+    commit: 82010
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 62
-    mergedPR: 23937
-    openPR: 34558
-    closedIssue: 22098
-    openIssue: 20144
-    commit: 77290
+    mergedPR: 23966
+    openPR: 34680
+    closedIssue: 22112
+    openIssue: 20259
+    commit: 77492
 total:
   release: 62
-  mergedPR: 24036
-  openPR: 34559
-  closedIssue: 22098
-  openIssue: 20145
-  commit: 77290
+  mergedPR: 24065
+  openPR: 34681
+  closedIssue: 22112
+  openIssue: 20260
+  commit: 77492
 ---
 path: /home/runner/.x-repo/github.com/nousresearch/hermes-agent
-collectedAt: 2026-11-27T08:38:03Z
+collectedAt: 2026-11-28T07:46:18Z
 loc:
   Python:
-    code: 2447301
-    comments: 141155
-    blanks: 488486
-    files: 12972
+    code: 2458069
+    comments: 141403
+    blanks: 490444
+    files: 12998
   TypeScript:
-    code: 611581
-    comments: 96585
-    blanks: 118843
-    files: 4137
+    code: 615233
+    comments: 96742
+    blanks: 119629
+    files: 4158
   Tsx:
-    code: 318966
-    comments: 32587
-    blanks: 53350
-    files: 1634
+    code: 319512
+    comments: 32617
+    blanks: 53467
+    files: 1638
   Yaml:
-    code: 174634
+    code: 174636
     comments: 1672
     blanks: 3623
     files: 2909
   Json:
-    code: 158773
+    code: 158842
     comments: 0
     blanks: 5
     files: 349
   JavaScript:
-    code: 67524
-    comments: 7490
-    blanks: 4979
-    files: 364
+    code: 67568
+    comments: 7497
+    blanks: 4985
+    files: 365
   Sh:
-    code: 9933
-    comments: 3507
-    blanks: 1046
+    code: 9940
+    comments: 3514
+    blanks: 1047
     files: 90
   PowerShell:
     code: 8324
@@ -306,8 +306,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 260765
-    blanks: 103486
+    comments: 260876
+    blanks: 103500
     files: 1552
   Text:
     code: 0
@@ -315,11 +315,11 @@ loc:
     blanks: 225
     files: 24
 total:
-  code: 3895873
-  comments: 568867
-  blanks: 787184
-  files: 24276
+  code: 3910970
+  comments: 569428
+  blanks: 790066
+  files: 24328
 ---
 
 ---
-{"id":456412256,"author":{"login":"teknium1","id":127238744,"node_id":"U_kgDOB5WCWA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPRF1G84bNExg","tag_name":"v0.23.4","target_commitish":"8fc0374447313e276f6b9a2764bfc750190c966a","name":"Hermes Agent v0.23.4","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-24T08:17:03Z","updated_at":"2026-11-24T08:17:06Z","published_at":"2026-11-24T08:17:06Z","assets":[],"body":"# Hermes Agent v0.23.4\n\n**Release Date:** November 23, 2026\n\n> Patch release. This tag rolls up the ~229 PRs merged since v0.23.3 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.\n\n<!-- HERMES_BUILDS_TABLE -->\n\n## About this release\n\nMeasured at commit `8fc03744473`, the window since v0.23.3 contains **1,122 non-merge commits** across **1,316 changed files** (+96,873 / −6,703), **229 merged PRs** and **281 closed issues**.\n\nAlso in the window, undocumented here on purpose: Gemini 4 Hydrogen, Neon and Carbon on Nous Portal, OpenRouter and Vertex, `hermes gateway migrate --backends` to move an old serve/dashboard backend onto the gateway (with a System page card in the dashboard), `hermes plugins config` to edit a plugin's settings from the terminal, approval cards in Desktop for a sandbox's folder and site requests, gateway clients announcing who they are so plugins can see which client sent a turn, a long run of Desktop streaming and transcript performance work, a retryable indicator for slow profile switches, `hermes dashboard password` without a TTY prompt, configurable skill index description length (`skills.index_desc_limit`), managed-scope config honored by security and URL-safety reads, and a large batch of new plugin-catalog entries.\n\n**Full curated release notes for this window ship with v0.24.0**, which will document everything from v0.23.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.\n\n## Updating\n\n- Microsoft Store app: updates through the Store.\n- Desktop app installed from the installer (.exe / .dmg): no change in this release; it updates with the next bundled release.\n- CLI: `hermes update`, or re-run the installer one-liner.\n- Docker / Hermes Cloud: `nousresearch/hermes-agent:stable` (or `:latest`).\n\n**Full Changelog**: [v0.23.3...v0.23.4](https://github.com/NousResearch/hermes-agent/compare/v0.23.3...v0.23.4)","reactions":{"total_count":57,"+1":18,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":38,"eyes":1}}
+{"id":461234317,"author":{"login":"teknium1","id":127238744,"node_id":"U_kgDOB5WCWA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPRF1G84bfeCN","tag_name":"v0.23.5","target_commitish":"a428f5344f777ccafe389c79d5b09384abef1437","name":"Hermes Agent v0.23.5","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-11-28T03:20:10Z","updated_at":"2026-11-28T03:20:13Z","published_at":"2026-11-28T03:20:13Z","assets":[],"body":"# Hermes Agent v0.23.5\n\n**Release Date:** November 27, 2026\n\n> Patch release. This tag rolls up the ~338 PRs merged since v0.23.4 into a stable release for the GitHub release (CLI and installers), the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window ship with v0.24.0.\n\n<!-- HERMES_BUILDS_TABLE -->\n\n## About this release\n\nMeasured at commit `a428f5344f77`, the window since v0.23.4 contains **1,262 non-merge commits** across **1,146 changed files** (+57,989 / −5,346), **338 merged PRs** and **92 closed issues**.\n\nAlso in the window, undocumented here on purpose: the CLI and TUI support the OSC 7577 program resume protocol, idle gateway chats compact in the background on every route, `read_file` tails with a negative offset and lists directories, `search_files` says when a content search is the whole answer, a bounded default-plugins preflight before the local gateway starts (Desktop, Docker and CLI), plugin OAuth entries that can pin their redirect URI, the Solstice provider moved to the stateless Interactions API, new plugin API surfaces (turn origin, how a session was created, cron scheduling, gateway silence helpers), the dashboard's \"your dashboard is moving\" notice, raw arrow keys working in the sessions and plugins pickers, and a long series of fixes that keep plugin work bound to the right profile when a profile is renamed, moved or removed.\n\n**Full curated release notes for this window ship with v0.24.0**, which will document everything from v0.23.0 onward — highlights, feature areas, and complete contributor credits. Nothing in this window is skipped.\n\n## Updating\n\n- Microsoft Store app: updates through the Store.\n- Desktop app installed from the installer (.exe / .dmg): no change in this release; it updates with the next bundled release.\n- CLI: `hermes update`, or re-run the installer one-liner.\n- Docker / Hermes Cloud: `nousresearch/hermes-agent:stable` (or `:latest`).\n\n**Full Changelog**: [v0.23.4...v0.23.5](https://github.com/NousResearch/hermes-agent/compare/v0.23.4...v0.23.5)"}
